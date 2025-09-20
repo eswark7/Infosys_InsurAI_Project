@@ -1,0 +1,26 @@
+OOP stands for Object-Oriented Programming.
+
+Procedural programming is about writing procedures or methods that perform operations on the data, while object-oriented programming is about creating objects that contain both data and methods.
+
+
+Class:
+
+A class is like a blueprint/template.
+
+It defines properties (variables) and behaviors (methods).
+
+No memory is allocated for a class until an object is created.
+
+Object:
+
+An object is an instance of a class.
+
+It uses the class blueprint to create a real-world entity in memory.
+
+Objects can access the variables and methods of the class.
+
+Example:
+
+Class: Car
+
+Objects: Volvo, Audi, Toyota

@@ -1,0 +1,19 @@
+✅ Control Statements in Java
+Normally, Java code runs top to bottom, but control statements let you change the flow — like 
+making decisions, repeating tasks, or jumping out of loops.
+
+1️⃣ Decision Making Statements (Choose between options)
+Used to run code only if a condition is true.
+if
+if-else
+switch
+
+2️⃣ Loop Statements (Repeat tasks)
+for loop
+while loop
+do-while loop
+for-each loop
+
+3️⃣ Jump Statements (Change loop execution)
+break
+continue

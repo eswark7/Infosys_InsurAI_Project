@@ -1,0 +1,34 @@
+🧰 JDK – Java Development Kit
+
+You use it to write and compile Java code.
+
+You write your code in a .java file.
+
+JDK provides a compiler (javac) to convert .java → .class (bytecode).
+
+Without JDK, you cannot create Java programs.
+
+
+🚀 JRE – Java Runtime Environment
+
+It helps you run Java programs.
+
+JRE contains everything needed to run a .class file.
+
+It includes the JVM + libraries (like for input/output, math, etc.).
+
+You don’t write code with JRE — you just run the program.
+
+
+⚙️ JVM – Java Virtual Machine
+
+It executes the actual bytecode.
+
+JVM reads the .class file.
+
+Converts bytecode into machine code your computer understands.
+
+Handles memory, garbage collection, and more.
+
+
+JDK (Inside JDK There is JRE)-> JRE(Inside JRE There is JVM) -> JVM
